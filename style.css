@@ -1,0 +1,196 @@
+*{
+    box-sizing: 0;
+}
+
+body { 
+    background-image: url("https://media.giphy.com/media/5z0Clc1s7uQfxuC1eG/g"); }
+
+#Colores{
+    background-color: black;
+    color: white;
+    padding: 2em;
+    width: 30em;
+    border-radius: 3em;
+    text-align: center;
+}
+
+.contenedor{
+     width: 600px;
+    margin: 0 auto;
+}
+
+.izquierda{
+    font-size: 40px;
+    min-height: 50px;
+    width: 30%;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    padding: 1em;
+    float: right;
+}
+
+.derecha{
+    font-size: 40px;
+    min-height: 50px;
+    width: 30%;
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    grid-template-rows: 1fr 1fr;
+    padding: 1em;
+}
+
+#color1{
+    background-color: #333399;
+    width: 3em;
+
+}
+
+#color2{
+    background-color: #666699;
+    width: 3em;
+
+}
+
+#color3{
+    background-color: #5e5e74;
+    width: 3em;
+    
+
+}
+
+#color4{
+    background-color: #CCCCCC;
+    width: 3em;
+
+}
+
+#color5{
+    background-color: #996699;
+    width: 3em;
+
+}
+
+#color6{
+    background-color: #CC6699;
+    width: 3em;
+
+}
+
+#color7{
+    background-color: #CC99CC;
+    width: 3em;
+
+}
+
+#color8{
+    background-color: #FFCCCC;
+    width: 3em;
+
+}
+
+#Tipografía{
+    background-color: black;
+    color: white;
+    padding: 2em;
+    width: 30em;
+    border-radius: 3em;
+    text-align: center;
+}
+
+#texto1{
+    background-color: white;
+    color: black;
+    width: 4em;
+    font-family: Cooper Std;
+}
+
+#texto2{
+    background-color: white;
+    color: black;
+    width: 4em;
+    font-family: Copperplate Gothic Bold;
+}
+
+#texto3{
+    background-color: white;
+    color: black;
+    width: 4em;
+    font-family: 'Copperplate Gothic';
+}
+
+#texto4{
+    background-color: white;
+    color: black;
+    width: 4em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#texto5{
+    background-color: white;
+    color: black;
+    width: 4em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#texto6{
+    background-color: white;
+    color: black;
+    width: 4em;
+    font-family: 'Cooper';
+}
+
+#texto7{
+    background-color: white;
+    color: black;
+    width: 4em;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#Estilo{
+    background-color: black;
+    color: white;
+    padding: 2em;
+    width: 30em;
+    border-radius: 3em;
+    text-align: center;
+}
+
+#Componentes{
+    background-color: black;
+    color: white;
+    padding: 2em;
+    width: 30em;
+    border-radius: 3em;
+    text-align: center;
+}
+
+#color9{
+    background-color: #FFFF00;
+    width: 4em;
+
+}
+
+#color10{
+    background-color: #FF6600;
+    width: 4em;
+
+}
+
+#color11{
+    background-color: #FF00FF;
+    width: 4em;
+
+}
+
+#color12{
+    background-color: #00FFFF;
+    width: 4em;
+
+}
+
+#color13{
+    background-color: #33FF00;
+    width: 4em;
+
+}
